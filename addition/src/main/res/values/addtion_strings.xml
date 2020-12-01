@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="用户服务协议前">请你务必审慎阅读、充分理解\"服务协议和\"隐私政策\"各条款,包括但不限于:为了向你提供即时通讯、内容分享等服务,我们需要收集你的设备信息、操作日志等个·人信息。你可以在\"设置\"中查看、变更、删除个人信息并管理你的授权。你可阅读</string>
+    <string name="用户服务协议后">了解详细信息。如你同意,请点击\"同意\"开始接受我们的服务。</string>
+    <string name="我已阅读并同意">我已阅读并同意</string>
+    <string name="用户服务协议">用户服务协议</string>
+    <string name="和">和</string>
+    <string name="隐私政策">隐私政策</string>
+    <string name="download_finish_if_open">下载完成是否打开</string>
+    <string name="cancel">取消</string>
+    <string name="fine">好的</string>
+</resources>

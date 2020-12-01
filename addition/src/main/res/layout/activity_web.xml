@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f7f7f7"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/web_title"
+            layout="@layout/layout_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <com.blankl.privicy.ProgressWebView
+            android:id="@+id/webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/web_title"></com.blankl.privicy.ProgressWebView>
+
+    </RelativeLayout>
+</layout>

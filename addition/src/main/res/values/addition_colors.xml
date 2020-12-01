@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#9EA2A8</color>
+    <color name="bg_line">#e5e5e5</color>
+    <color name="text_color_title">#3b3b3b</color>
+    <color name="text_color_no_click">#CCCCCC</color>
+    <color name="b_tm">#40FFFFFF</color>
+    <color name="tm">#00000000</color>
+</resources>

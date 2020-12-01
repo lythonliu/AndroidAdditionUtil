@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_title">18sp</dimen>
+    <dimen name="editText_padding">10dp</dimen>
+    <dimen name="text_size_cont">15sp</dimen>
+    <dimen name="text_size_top">18sp</dimen>
+</resources>
