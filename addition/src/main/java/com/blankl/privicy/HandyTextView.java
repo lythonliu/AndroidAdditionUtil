@@ -2,9 +2,10 @@ package com.blankl.privicy;
 
 import android.content.Context;
 import android.util.AttributeSet;
-import android.widget.TextView;
 
-public class HandyTextView extends TextView {
+import androidx.appcompat.widget.AppCompatTextView;
+
+public class HandyTextView extends AppCompatTextView {
 
     public HandyTextView(Context context) {
         super(context);
