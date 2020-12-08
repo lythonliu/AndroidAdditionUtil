@@ -1,13 +1,13 @@
 package com.blankl.privicy;
 
 import android.os.Build;
+import android.support.annotation.ColorInt;
+import android.support.v4.app.FragmentActivity;
+import android.support.v4.graphics.ColorUtils;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
-import androidx.annotation.ColorInt;
-import androidx.core.graphics.ColorUtils;
-import androidx.fragment.app.FragmentActivity;
 
 public class ThemeUtil {
 
