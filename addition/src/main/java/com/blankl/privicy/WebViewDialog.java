@@ -2,10 +2,10 @@ package com.blankl.privicy;
 
 import android.app.Dialog;
 import android.content.Context;
+import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.webkit.WebSettings;
 
-import androidx.databinding.DataBindingUtil;
 
 import com.bankl.addition.R;
 import com.bankl.addition.databinding.DialogWebViewBinding;
